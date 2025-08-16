@@ -1,6 +1,6 @@
-# DevDrishti Bot Dependencies (Safe Version)
+# DevDrishti Bot Dependencies (Stable)
 
-setuptools==68.0.0
+setuptools==68.0.0  # Required for pkg_resources
 
 # Core Bot Framework
 pyTelegramBotAPI==4.14.0
